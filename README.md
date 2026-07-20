@@ -44,15 +44,6 @@
 ### `> ./run_stats.sh`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sidcore-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000&icon_color=00FF41&title_color=00FF41&text_color=00FF41" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidcore-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000&title_color=00FF41&text_color=00FF41" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidcore-dev&theme=hacker&hide_border=true&background=000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sidcore-dev&theme=react-dark&hide_border=true&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF" />
 </p>
 
