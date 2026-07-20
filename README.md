@@ -36,10 +36,10 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me
 
-- 🔭 Currently working on **[project name here]**
-- 🌱 Currently learning **[tech/skill here]**
-- 💬 Ask me about **[your niche — e.g. React, AI tooling, backend systems]**
-- ⚡ Fun fact: **[something fun about you]**
+- 🔭 Currently working on **Revision Games**
+- 🌱 Currently learning **Python & Vibe Coding Fundamentals**
+- 💬 Ask me about **Python**
+- ⚡ Fun fact: **I like roblox**
 
 ---
 
@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sidcore-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidcore-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sidcore-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
