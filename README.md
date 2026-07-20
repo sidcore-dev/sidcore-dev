@@ -37,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=python,git,linux&theme=dark" />
 </p>
 
-> `# swap the icon codes above for your real stack — full list at skillicons.dev`
-
 <img src="https://readmeforge.natrajx.in/api/divider?style=zigzag&metal=matrix&width=900" />
 
 ### `> ./run_stats.sh`
