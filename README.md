@@ -50,7 +50,7 @@
 ### `> ping connect --all`
 
 <p align="center">
-  <img src="https://readmeforge.natrajx.in/api/social-links?links=github:sidcore-dev,linkedin:YOUR-LINKEDIN-HANDLE,gmail:sidsprimary&style=matrix" />
+  <img src="https://readmeforge.natrajx.in/api/social-links?links=gmail:sidsprimary&style=matrix" />
 </p>
 
 <div align="center">
