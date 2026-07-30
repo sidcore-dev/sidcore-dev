@@ -15,7 +15,7 @@
 ┌──(S1D_C0RE㉿sidcore-dev)-[~]
 └─$ cat about.md
 
-  name    : Sidney Wallace
+  name    : (REDACTED)
   alias   : S1D_C0RE
   role    : role.set(false)   // TBD
   focus   : building with AI-augmented tooling
