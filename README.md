@@ -46,6 +46,8 @@ $ cat bio.txt
 
 ## ⚡ Loadout
 
+<sub>// tools currently loaded into memory</sub>
+
 <div align="center">
 
 ![Claude Code](https://img.shields.io/badge/-Claude_Code-000000?style=for-the-badge&logo=anthropic&logoColor=00FF41)
@@ -61,6 +63,8 @@ $ cat bio.txt
 
 ## 📡 Stats Uplink
 
+<sub>// pulling live telemetry, no bots were harmed</sub>
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=sidcore-dev&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF41" />
 </div>
@@ -74,6 +78,8 @@ $ cat bio.txt
 <br/>
 
 ## 🐍 Contribution Feed
+
+<sub>// tracking every commit like it's classified intel</sub>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/sidcore-dev/sidcore-dev/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" />
@@ -90,11 +96,12 @@ $ cat bio.txt
 // links: not deployed yet
 // channel status: OFFLINE
 // check back soon — building in the meantime
+// (this message will not self-destruct, GitHub doesn't support that yet)
 
 ```
 
 <br/>
 
 <div align="center">
-<sub>compiled by S1D_C0RE · last sync: auto</sub>
+<sub>compiled by S1D_C0RE · last sync: auto · thanks for stopping by, agent</sub>
 </div>
