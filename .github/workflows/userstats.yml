@@ -1,0 +1,25 @@
+name: generate user stats
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate the user stats image
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: images/userstats.svg
+          include-title: false
+          top-icon: none
+          colors: "#000000 #00ff41 #00ff41 #00ff41 #00ff41"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

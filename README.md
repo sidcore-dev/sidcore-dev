@@ -44,13 +44,14 @@
 ## 📡 Stats Uplink
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sidcore-dev&show_icons=true&hide_title=true&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=00FF41&icon_color=00FF41" />
-  <img height="165" src="https://github-readme-streak-stats.demolab.com/?user=sidcore-dev&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF41" />
+  <img src="https://streak-stats.demolab.com/?user=sidcore-dev&hide_border=true&background=00000000&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=00FF41" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidcore-dev&layout=compact&hide_border=true&bg_color=00000000&title_color=00FF41&text_color=00FF41" />
+  <img src="images/userstats.svg" alt="GitHub stats" />
 </div>
+
+<sub>self-hosted via GitHub Actions — see <code>.github/workflows/userstats.yml</code></sub>
 
 <br/>
 
