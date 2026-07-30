@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40sidcore%3A~%23+whoami;alias%3A+S1D_C0RE;name%3A+Sidney+Wallace;status%3A+compiling+ideas+into+code..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=650&lines=root%40sidcore%3A~%23+whoami;alias%3A+S1D_C0RE;status%3A+compiling+ideas+into+code...;mood%3A+curious+%2B+caffeinated" alt="Typing SVG" />
 
 <br/>
 
@@ -23,6 +23,24 @@
   status  : online
 
 ```
+
+<br/>
+
+## 🧠 Bio
+
+```
+$ cat bio.txt
+```
+
+> Operating under the alias **S1D_C0RE**. I build things by pairing with AI
+> rather than working alone — Claude Code is the daily driver, handling the
+> repetitive parts so I can stay focused on the interesting ones.
+>
+> No fixed title yet, no fixed stack yet — still early, still shipping.
+> Everything on this profile, including the README you're reading, was
+> built the same way: human intent, agentic execution.
+>
+> If it compiles, it ships. If it doesn't, that's what tomorrow's for.
 
 <br/>
 
@@ -71,7 +89,7 @@
 
 // links: not deployed yet
 // channel status: OFFLINE
-// check back soon
+// check back soon — building in the meantime
 
 ```
 
