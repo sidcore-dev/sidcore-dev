@@ -17,30 +17,25 @@
 
   name    : (REDACTED)
   alias   : S1D_C0RE
-  role    : role.set(false)   // TBD
+  role    : role.set(false)   // accepting applications from myself
   focus   : building with AI-augmented tooling
   weapon  : Claude Code
-  status  : online
+  status  : online, mildly caffeinated
 
 ```
 
 <br/>
 
-## 🧠 Bio
+## 🏆 Achievements Unlocked
 
-```
-$ cat bio.txt
-```
+<div align="center">
 
-> Operating under the alias **S1D_C0RE**. I build things by pairing with AI
-> rather than working alone — Claude Code is the daily driver, handling the
-> repetitive parts so I can stay focused on the interesting ones.
->
-> No fixed title yet, no fixed stack yet — still early, still shipping.
-> Everything on this profile, including the README you're reading, was
-> built the same way: human intent, agentic execution.
->
-> If it compiles, it ships. If it doesn't, that's what tomorrow's for.
+![First Commit](https://img.shields.io/badge/🎯_First_Commit-Survived-000000?style=for-the-badge&labelColor=000000&color=00FF41)
+![README](https://img.shields.io/badge/📜_This_README-Shipped-000000?style=for-the-badge&labelColor=000000&color=00FF41)
+![AI Copilot](https://img.shields.io/badge/🤖_AI_Copilot-Bonded-000000?style=for-the-badge&labelColor=000000&color=00FF41)
+![Bugs](https://img.shields.io/badge/🐛_Bugs-Squashed_(probably)-000000?style=for-the-badge&labelColor=000000&color=00FF41)
+
+</div>
 
 <br/>
 
@@ -97,11 +92,14 @@ $ cat bio.txt
 // channel status: OFFLINE
 // check back soon — building in the meantime
 // (this message will not self-destruct, GitHub doesn't support that yet)
+// ping me and I might even reply before the next sprint
 
 ```
 
 <br/>
 
 <div align="center">
-<sub>compiled by S1D_C0RE · last sync: auto · thanks for stopping by, agent</sub>
+<sub>compiled by S1D_C0RE · last sync: auto · thanks for stopping by, agent 🕶️</sub>
+<br/>
+<sub><sub>if you're reading this, you scrolled further than most bots do</sub></sub>
 </div>
