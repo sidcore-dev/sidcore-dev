@@ -84,6 +84,33 @@
 
 <br/>
 
+## 📦 Deployed
+
+<sub>// selected builds from the fleet, all zero-dependency unless noted</sub>
+
+```
+$ ls ~/projects --sort=relevance
+```
+
+| tool | does | install |
+|---|---|---|
+| [gitleaks-lite-cli](https://github.com/sidcore-dev/gitleaks-lite-cli) | Heuristic regex/entropy secret scanner — catches credentials before they hit a commit | `git clone` + `pip install .` |
+| [gitstats-cli](https://github.com/sidcore-dev/gitstats-cli) | Summarizes a repo's commit history: authors, day-of-week activity, hot files | `git clone` + `pip install .` |
+| [changelog-cli](https://github.com/sidcore-dev/changelog-cli) | Generates a Markdown changelog from Conventional Commits history | `git clone` + `pip install .` |
+| [envexport-cli](https://github.com/sidcore-dev/envexport-cli) | Turns a `.env` file into shell exports, `docker -e` flags, or flat JSON | `git clone` + `pip install .` |
+| [contrast-checker](https://github.com/sidcore-dev/contrast-checker) | WCAG color-contrast checker with live preview and AA/AAA pass-fail | open `index.html`, no build step |
+| [diffview](https://github.com/sidcore-dev/diffview) | Client-side two-textarea diff viewer, hand-rolled LCS line diff | open `index.html`, no build step |
+| [jwtdecode-cli](https://github.com/sidcore-dev/jwtdecode-cli) | Decodes a JWT's header and payload for quick debugging | `git clone` + `pip install .` |
+| [passgen-cli](https://github.com/sidcore-dev/passgen-cli) | Generates strong random passwords and passphrases | `git clone` + `pip install .` |
+| [treeview-cli](https://github.com/sidcore-dev/treeview-cli) | Prints a directory tree that respects `.gitignore` automatically | `git clone` + `pip install .` |
+| [unused-imports-cli](https://github.com/sidcore-dev/unused-imports-cli) | Finds unused Python imports via the `ast` module, no deps | `git clone` + `pip install .` |
+| [hashcheck-cli](https://github.com/sidcore-dev/hashcheck-cli) | Computes/verifies file checksums (md5/sha1/sha256) against a manifest | `git clone` + `pip install .` |
+| [SyncCalendar](https://github.com/sidcore-dev/SyncCalendar) | Group scheduling app — share a link, find overlap, vote, lock it in | Next.js + Supabase, see repo |
+
+→ [Browse all 70+ tools](https://github.com/sidcore-dev?tab=repositories) · [Filter by `cli` topic](https://github.com/search?q=user%3Asidcore-dev+topic%3Acli&type=repositories)
+
+<br/>
+
 ## 🔗 Comms
 
 ```
